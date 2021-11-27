@@ -64,3 +64,5 @@ Table 1. Maximum and minimum number of horses for each province between
 Below we zoom in and look at the province of Alberta:
 
 ![](hist_horse_pop_pict/figure/figure2.png)<!-- -->
+
+## References
